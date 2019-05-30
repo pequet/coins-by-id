@@ -99,7 +99,7 @@
 | 97. | ethereum | ethereum | ethereum | id, name | 7605 |
 | 98. | ethereum-classic | ethereum-classic | ethereum-classic | id, name | 5324 |
 | 99. | etherparty | etherparty | etherparty | id, name | 292748 |
-| 100. | ethlend | ethlend | ethlend | id, name | 418778 |
+| 100. | ethlend | ethlend | ethlend | id | 418778 |
 | 101. | ethos | ethos | ethos | id, name | 141464 |
 | 102. | everex | everex | everex | id, name | 194883 |
 | 103. | evergreencoin | evergreencoin | evergreencoin | id, name | 15885 |
