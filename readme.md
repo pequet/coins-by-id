@@ -146,158 +146,159 @@
 | 144. | komodo | komodo | komodo | id, name | 26132 |
 | 145. | korecoin | korecoin | korecoin | id, name | 5318 |
 | 146. | kyber-network | kyber-network | kyber-network | id, name | 310497 |
-| 147. | libra-credit | libra-credit | libra-credit | id, name | 889997 |
-| 148. | library-credit | library-credit | lbry-credits | name | 23432 |
-| 149. | lisk | lisk | lisk | id, name | 19745 |
-| 150. | litecoin | litecoin | litecoin | id, name | 3808 |
-| 151. | loom-network | loom-network | loom-network | id, name | 836492 |
-| 152. | loopring | loopring | loopring | id, name | 318169 |
-| 153. | lunyr | lunyr | lunyr | id, name | 67447 |
-| 154. | maecenas | maecenas | maecenas | id, name | 311558 |
-| 155. | mainframe | mainframe | mainframe | id, name | 917211 |
-| 156. | melon | melon | melon | id, name | 45253 |
-| 157. | memetic | memetic | memetic | id, name | 20825 |
-| 158. | mercury | mercury | mercury | id, name | 61138 |
-| 159. | metadium | metadium | metadium | id, name | 927515 |
-| 160. | metal | metal | metal | id, name | 179164 |
-| 161. | metronome | metronome | metronome | id, name | 916769 |
-| 162. | mithril | mithril | mithril | id, name | 847172 |
-| 163. | mobius | mobius | mobius | id, name | 202706 |
-| 164. | moeda-loyalty-points | moeda-loyalty-points | moeda-loyalty-points | id, name | 341279 |
-| 165. | monacoin | monacoin | monacoin | id, name | 5296 |
-| 166. | monero | monero | monero | id, name | 5038 |
-| 167. | monetaryunit | monetaryunit | monetaryunit | id, name | 22325 |
-| 168. | monetha | monetha | monetha | id, name | 208914 |
-| 169. | musicoin | musicoin | musicoin | id, name | 53950 |
-| 170. | myriad | myriad | myriadcoin | name | 4345 |
-| 171. | naga | naga | naga | id, name | 466339 |
-| 172. | nano | nano | nano | id, name | 172091 |
-| 173. | nav-coin | nav-coin | nav-coin | id |  |
-| 174. | neblio | neblio | neblio | id, name | 222085 |
-| 175. | nem | nem | nem | id, name | 5285 |
-| 176. | neo | neo | neo | id, name | 27368 |
-| 177. | neoscoin | neoscoin | neoscoin | id, name | 5370 |
-| 178. | nexium | nexium | nexium | id, name | 35678 |
-| 179. | nexus | nexus | nexus | id, name | 6103 |
-| 180. | nkn | nkn | nkn | id, name | 897496 |
-| 181. | nolimitcoin | nolimitcoin | nolimitcoin | id, name | 195018 |
-| 182. | nucleus-vision | nucleus-vision | nucleus-vision | id, name | 792548 |
-| 183. | nuls | nuls | nuls | id, name | 377792 |
-| 184. | numeraire | numeraire | numeraire | id, name | 166594 |
-| 185. | nxt | nxt | nxt | id, name | 1183 |
-| 186. | oax | oax | openanx | name | 180013 |
-| 187. | obyte | obyte | byteball | name | 30736 |
-| 188. | odyssey | odyssey | odyssey | id, name | 714255 |
-| 189. | okcash | okcash | okcash | id, name | 17857 |
-| 190. | omisego | omisego | omisego | id, name | 187440 |
-| 191. | ontology | ontology | ontology | id, name | 808414 |
-| 192. | ontology-gas | ontology-gas | ong | name | 925815 |
-| 193. | orbs | orbs | orbs | id, name | 929872 |
-| 194. | origintrail | origintrail | origintrail | id, name | 716641 |
-| 195. | ost | simple-token | simple-token | id, name | 369132 |
-| 196. | pal-network | pal-network | policypal | name | 883061 |
-| 197. | particl | particl | particl | id, name | 191116 |
-| 198. | patientory | patientory | patientory | id, name | 129035 |
-| 199. | pchain | pchain | pchain | id, name |  |
-| 200. | peercoin | peercoin | peercoin | id, name | 2349 |
-| 201. | pinkcoin | pinkcoin | pinkcoin | id, name | 5374 |
-| 202. | pivx | pivx | pivx | id, name | 42433 |
-| 203. | playchip | playchip | playchip | id, name | 925240 |
-| 204. | poa-network | poa-network | poa-network | id, name | 793845 |
-| 205. | poet | poet | poet | id, name | 188811 |
-| 206. | populous | populous | populous | id, name | 179896 |
-| 207. | potcoin | potcoin | potcoin | id, name | 4587 |
-| 208. | power-ledger | power-ledger | power-ledger | id, name | 339617 |
-| 209. | propy | propy | propy | id, name | 185695 |
-| 210. | pumapay | pumapay | pumapay | id, name | 661398 |
-| 211. | pundi-x | pundi-x-new | pundi-x | name | 731516 |
-| 212. | qlink | qlink | qlink | id, name | 637681 |
-| 213. | qtum | qtum | qtum | id, name | 112392 |
-| 214. | quant | quant | quant-network | name | 928790 |
-| 215. | quantstamp | quantstamp | quantstamp | id, name | 397757 |
-| 216. | quantum-resistant-ledger | quantum-resistant-ledger | quantum-resistant-ledger | id, name | 127667 |
-| 217. | quarkchain | quarkchain | quark-chain | name | 899553 |
-| 218. | qwark | qwark | qwark | id, name | 116425 |
-| 219. | radium | radium | radium | id, name | 15870 |
-| 220. | raiden-network-token | raiden-network-token | raiden-network | name |  |
-| 221. | ravencoin | ravencoin | ravencoin | id, name | 794350 |
-| 222. | red-pulse | red-pulse | red-pulse | id | 341267 |
-| 223. | reddcoin | reddcoin | reddcoin | id, name | 4592 |
-| 224. | refereum | refereum | refereum | id, name | 795662 |
-| 225. | ren | ren | republic-protocol | name |  |
-| 226. | request | request | request-network | name | 335059 |
-| 227. | revolutionvr | revolutionvr | revolutionvr | id, name | 18180 |
-| 228. | ripio-credit-network | ripio-credit-network | ripio-credit-network | id, name |  |
-| 229. | ripple | ripple | ripple | id | 5031 |
-| 230. | rlc | rlc | iexec-rlc | name | 61877 |
-| 231. | salt | salt | salt | id, name | 314580 |
-| 232. | salus | salus | salus | id, name | 20681 |
-| 233. | selfkey | selfkey | selfkey | id, name | 360299 |
-| 234. | sentinel-protocol | sentinel-protocol | sentinel-protocol | id, name | 906271 |
-| 235. | sequence | sequence | sequence | id, name | 131112 |
-| 236. | serve | serve | serve | id, name |  |
-| 237. | shift | shift | shift | id, name | 38307 |
-| 238. | siacoin | siacoin | siacoin | id, name | 13072 |
-| 239. | sibcoin | sibcoin | sibcoin | id, name | 20745 |
-| 240. | singulardtv | singulardtv | singulardtv | id, name | 24926 |
-| 241. | singularitynet | singularitynet | singularitynet | id, name | 710156 |
-| 242. | sirin-labs-token | sirin-labs-token | sirin-labs-token | id, name |  |
-| 243. | skycoin | skycoin | skycoin | id, name | 136269 |
-| 244. | smartlands | smartlands | smartlands | id, name | 924971 |
-| 245. | solarcoin | solarcoin | solarcoin | id, name | 5349 |
-| 246. | sonm | sonm | sonm | id, name | 136244 |
-| 247. | spendcoin | spendcoin | spendcoin | id, name |  |
-| 248. | sphere | sphere | sphere | id, name | 6111 |
-| 249. | stableusd | stableusd | stableusd | id, name | 929229 |
-| 250. | status | status | status | id, name |  |
-| 251. | stealth | stealthcoin | stealthcoin | id, name | 5032 |
-| 252. | steem | steem | steem | id, name | 20333 |
-| 253. | steem-dollars | steem-dollars | steem-dollars | id, name |  |
-| 254. | stellar | stellar | stellar | id, name | 4614 |
-| 255. | storj | storj | storj | id, name | 187347 |
-| 256. | storm | storm | storm | id, name | 186875 |
-| 257. | stratis | stratis | stratis | id, name | 24294 |
-| 258. | streamr-datacoin | streamr-datacoin | streamr-datacoin | id, name | 369151 |
-| 259. | susd | susd | nusd | name | 928087 |
-| 260. | swarm-city | swarm-city | swarm-city | id, name | 50741 |
-| 261. | syndicate | syndicate | syndicate | id, name | 27591 |
-| 262. | synereo | synereo | synereo | id | 18244 |
-| 263. | synthetix-network-token | synthetix-network-token | havven | name | 816635 |
-| 264. | syscoin | syscoin | syscoin | id, name | 4618 |
-| 265. | tael | tael | wabi | name | 340940 |
-| 266. | tenx | tenx | tenx | id, name | 45260 |
-| 267. | theta-fuel | theta-fuel | theta-fuel | id, name | 929751 |
-| 268. | tierion | tierion | tierion | id, name | 186309 |
-| 269. | time-new-bank | time-new-bank | time-new-bank | id, name | 517483 |
-| 270. | tokes | tokes | tokes | id | 35124 |
-| 271. | transfercoin | transfercoin | transfercoin | id, name |  |
-| 272. | tripio | tripio | tripio | id, name | 925516 |
-| 273. | tron | tron | tron | id, name | 310829 |
-| 274. | trueusd | true-usd | true-usd | id | 844139 |
-| 275. | ttc-protocol | ttc-protocol | ttc-protocol | id, name | 929813 |
-| 276. | ubiq | ubiq | ubiq | id, name | 43044 |
-| 277. | unikoin-gold | unikoin-gold-ukg | unikoin-gold | name | 371005 |
-| 278. | uptoken | uptoken | uptoken | id, name | 347247 |
-| 279. | vechain | vechain | vechain | id, name | 236131 |
-| 280. | verge | verge | verge | id, name | 4433 |
-| 281. | veriblock | veriblock | veriblock | id, name |  |
-| 282. | vericoin | vericoin | vericoin | id, name | 5017 |
-| 283. | vertcoin | vertcoin | vertcoin | id, name | 5018 |
-| 284. | viacoin | viacoin | viacoin | id, name | 5015 |
-| 285. | vibe | vibe | vibe | id, name | 336538 |
-| 286. | viberate | viberate | viberate | id, name | 198710 |
-| 287. | vite | vite | vite | id, name | 921524 |
-| 288. | wanchain | wanchain | wanchain | id, name | 240142 |
-| 289. | waves | waves | waves | id, name | 20131 |
-| 290. | wax | wax | wax | id, name | 338541 |
-| 291. | wepower | wepower | wepower | id, name | 355242 |
-| 292. | whitecoin | whitecoin | whitecoin | id, name | 20338 |
-| 293. | wibson | wibson | wibson | id, name |  |
-| 294. | wings | wings | wings | id, name | 25946 |
-| 295. | xel | xel | elastic | name |  |
-| 296. | yoyow | yoyow | yoyow | id, name | 322002 |
-| 297. | zcash | zcash | zcash | id, name | 24854 |
-| 298. | zclassic | zclassic | zclassic | id, name | 32544 |
-| 299. | zcoin | zcoin | zcoin | id, name | 30022 |
-| 300. | zencash | zencash | zencash | id, name |  |
-| 301. | zilliqa | zilliqa | zilliqa | id, name | 716725 |
+| 147. | lambda | lambda | lambda | id, name |  |
+| 148. | libra-credit | libra-credit | libra-credit | id, name | 889997 |
+| 149. | library-credit | library-credit | lbry-credits | name | 23432 |
+| 150. | lisk | lisk | lisk | id, name | 19745 |
+| 151. | litecoin | litecoin | litecoin | id, name | 3808 |
+| 152. | loom-network | loom-network | loom-network | id, name | 836492 |
+| 153. | loopring | loopring | loopring | id, name | 318169 |
+| 154. | lunyr | lunyr | lunyr | id, name | 67447 |
+| 155. | maecenas | maecenas | maecenas | id, name | 311558 |
+| 156. | mainframe | mainframe | mainframe | id, name | 917211 |
+| 157. | melon | melon | melon | id, name | 45253 |
+| 158. | memetic | memetic | memetic | id, name | 20825 |
+| 159. | mercury | mercury | mercury | id, name | 61138 |
+| 160. | metadium | metadium | metadium | id, name | 927515 |
+| 161. | metal | metal | metal | id, name | 179164 |
+| 162. | metronome | metronome | metronome | id, name | 916769 |
+| 163. | mithril | mithril | mithril | id, name | 847172 |
+| 164. | mobius | mobius | mobius | id, name | 202706 |
+| 165. | moeda-loyalty-points | moeda-loyalty-points | moeda-loyalty-points | id, name | 341279 |
+| 166. | monacoin | monacoin | monacoin | id, name | 5296 |
+| 167. | monero | monero | monero | id, name | 5038 |
+| 168. | monetaryunit | monetaryunit | monetaryunit | id, name | 22325 |
+| 169. | monetha | monetha | monetha | id, name | 208914 |
+| 170. | musicoin | musicoin | musicoin | id, name | 53950 |
+| 171. | myriad | myriad | myriadcoin | name | 4345 |
+| 172. | naga | naga | naga | id, name | 466339 |
+| 173. | nano | nano | nano | id, name | 172091 |
+| 174. | nav-coin | nav-coin | nav-coin | id |  |
+| 175. | neblio | neblio | neblio | id, name | 222085 |
+| 176. | nem | nem | nem | id, name | 5285 |
+| 177. | neo | neo | neo | id, name | 27368 |
+| 178. | neoscoin | neoscoin | neoscoin | id, name | 5370 |
+| 179. | nexium | nexium | nexium | id, name | 35678 |
+| 180. | nexus | nexus | nexus | id, name | 6103 |
+| 181. | nkn | nkn | nkn | id, name | 897496 |
+| 182. | nolimitcoin | nolimitcoin | nolimitcoin | id, name | 195018 |
+| 183. | nucleus-vision | nucleus-vision | nucleus-vision | id, name | 792548 |
+| 184. | nuls | nuls | nuls | id, name | 377792 |
+| 185. | numeraire | numeraire | numeraire | id, name | 166594 |
+| 186. | nxt | nxt | nxt | id, name | 1183 |
+| 187. | oax | oax | openanx | name | 180013 |
+| 188. | obyte | obyte | byteball | name | 30736 |
+| 189. | odyssey | odyssey | odyssey | id, name | 714255 |
+| 190. | okcash | okcash | okcash | id, name | 17857 |
+| 191. | omisego | omisego | omisego | id, name | 187440 |
+| 192. | ontology | ontology | ontology | id, name | 808414 |
+| 193. | ontology-gas | ontology-gas | ong | name | 925815 |
+| 194. | orbs | orbs | orbs | id, name | 929872 |
+| 195. | origintrail | origintrail | origintrail | id, name | 716641 |
+| 196. | ost | simple-token | simple-token | id, name | 369132 |
+| 197. | pal-network | pal-network | policypal | name | 883061 |
+| 198. | particl | particl | particl | id, name | 191116 |
+| 199. | patientory | patientory | patientory | id, name | 129035 |
+| 200. | pchain | pchain | pchain | id, name |  |
+| 201. | peercoin | peercoin | peercoin | id, name | 2349 |
+| 202. | pinkcoin | pinkcoin | pinkcoin | id, name | 5374 |
+| 203. | pivx | pivx | pivx | id, name | 42433 |
+| 204. | playchip | playchip | playchip | id, name | 925240 |
+| 205. | poa-network | poa-network | poa-network | id, name | 793845 |
+| 206. | poet | poet | poet | id, name | 188811 |
+| 207. | populous | populous | populous | id, name | 179896 |
+| 208. | potcoin | potcoin | potcoin | id, name | 4587 |
+| 209. | power-ledger | power-ledger | power-ledger | id, name | 339617 |
+| 210. | propy | propy | propy | id, name | 185695 |
+| 211. | pumapay | pumapay | pumapay | id, name | 661398 |
+| 212. | pundi-x | pundi-x-new | pundi-x | name | 731516 |
+| 213. | qlink | qlink | qlink | id, name | 637681 |
+| 214. | qtum | qtum | qtum | id, name | 112392 |
+| 215. | quant | quant | quant-network | name | 928790 |
+| 216. | quantstamp | quantstamp | quantstamp | id, name | 397757 |
+| 217. | quantum-resistant-ledger | quantum-resistant-ledger | quantum-resistant-ledger | id, name | 127667 |
+| 218. | quarkchain | quarkchain | quark-chain | name | 899553 |
+| 219. | qwark | qwark | qwark | id, name | 116425 |
+| 220. | radium | radium | radium | id, name | 15870 |
+| 221. | raiden-network-token | raiden-network-token | raiden-network | name |  |
+| 222. | ravencoin | ravencoin | ravencoin | id, name | 794350 |
+| 223. | red-pulse | red-pulse | red-pulse | id | 341267 |
+| 224. | reddcoin | reddcoin | reddcoin | id, name | 4592 |
+| 225. | refereum | refereum | refereum | id, name | 795662 |
+| 226. | ren | ren | republic-protocol | name |  |
+| 227. | request | request | request-network | name | 335059 |
+| 228. | revolutionvr | revolutionvr | revolutionvr | id, name | 18180 |
+| 229. | ripio-credit-network | ripio-credit-network | ripio-credit-network | id, name |  |
+| 230. | ripple | ripple | ripple | id | 5031 |
+| 231. | rlc | rlc | iexec-rlc | name | 61877 |
+| 232. | salt | salt | salt | id, name | 314580 |
+| 233. | salus | salus | salus | id, name | 20681 |
+| 234. | selfkey | selfkey | selfkey | id, name | 360299 |
+| 235. | sentinel-protocol | sentinel-protocol | sentinel-protocol | id, name | 906271 |
+| 236. | sequence | sequence | sequence | id, name | 131112 |
+| 237. | serve | serve | serve | id, name |  |
+| 238. | shift | shift | shift | id, name | 38307 |
+| 239. | siacoin | siacoin | siacoin | id, name | 13072 |
+| 240. | sibcoin | sibcoin | sibcoin | id, name | 20745 |
+| 241. | singulardtv | singulardtv | singulardtv | id, name | 24926 |
+| 242. | singularitynet | singularitynet | singularitynet | id, name | 710156 |
+| 243. | sirin-labs-token | sirin-labs-token | sirin-labs-token | id, name |  |
+| 244. | skycoin | skycoin | skycoin | id, name | 136269 |
+| 245. | smartlands | smartlands | smartlands | id, name | 924971 |
+| 246. | solarcoin | solarcoin | solarcoin | id, name | 5349 |
+| 247. | sonm | sonm | sonm | id, name | 136244 |
+| 248. | spendcoin | spendcoin | spendcoin | id, name |  |
+| 249. | sphere | sphere | sphere | id, name | 6111 |
+| 250. | stableusd | stableusd | stableusd | id, name | 929229 |
+| 251. | status | status | status | id, name |  |
+| 252. | stealth | stealthcoin | stealthcoin | id, name | 5032 |
+| 253. | steem | steem | steem | id, name | 20333 |
+| 254. | steem-dollars | steem-dollars | steem-dollars | id, name |  |
+| 255. | stellar | stellar | stellar | id, name | 4614 |
+| 256. | storj | storj | storj | id, name | 187347 |
+| 257. | storm | storm | storm | id, name | 186875 |
+| 258. | stratis | stratis | stratis | id, name | 24294 |
+| 259. | streamr-datacoin | streamr-datacoin | streamr-datacoin | id, name | 369151 |
+| 260. | susd | susd | nusd | name | 928087 |
+| 261. | swarm-city | swarm-city | swarm-city | id, name | 50741 |
+| 262. | syndicate | syndicate | syndicate | id, name | 27591 |
+| 263. | synereo | synereo | synereo | id | 18244 |
+| 264. | synthetix-network-token | synthetix-network-token | havven | name | 816635 |
+| 265. | syscoin | syscoin | syscoin | id, name | 4618 |
+| 266. | tael | tael | wabi | name | 340940 |
+| 267. | tenx | tenx | tenx | id, name | 45260 |
+| 268. | theta-fuel | theta-fuel | theta-fuel | id, name | 929751 |
+| 269. | tierion | tierion | tierion | id, name | 186309 |
+| 270. | time-new-bank | time-new-bank | time-new-bank | id, name | 517483 |
+| 271. | tokes | tokes | tokes | id | 35124 |
+| 272. | transfercoin | transfercoin | transfercoin | id, name |  |
+| 273. | tripio | tripio | tripio | id, name | 925516 |
+| 274. | tron | tron | tron | id, name | 310829 |
+| 275. | trueusd | true-usd | true-usd | id | 844139 |
+| 276. | ttc-protocol | ttc-protocol | ttc-protocol | id, name | 929813 |
+| 277. | ubiq | ubiq | ubiq | id, name | 43044 |
+| 278. | unikoin-gold | unikoin-gold-ukg | unikoin-gold | name | 371005 |
+| 279. | uptoken | uptoken | uptoken | id, name | 347247 |
+| 280. | vechain | vechain | vechain | id, name | 236131 |
+| 281. | verge | verge | verge | id, name | 4433 |
+| 282. | veriblock | veriblock | veriblock | id, name |  |
+| 283. | vericoin | vericoin | vericoin | id, name | 5017 |
+| 284. | vertcoin | vertcoin | vertcoin | id, name | 5018 |
+| 285. | viacoin | viacoin | viacoin | id, name | 5015 |
+| 286. | vibe | vibe | vibe | id, name | 336538 |
+| 287. | viberate | viberate | viberate | id, name | 198710 |
+| 288. | vite | vite | vite | id, name | 921524 |
+| 289. | wanchain | wanchain | wanchain | id, name | 240142 |
+| 290. | waves | waves | waves | id, name | 20131 |
+| 291. | wax | wax | wax | id, name | 338541 |
+| 292. | wepower | wepower | wepower | id, name | 355242 |
+| 293. | whitecoin | whitecoin | whitecoin | id, name | 20338 |
+| 294. | wibson | wibson | wibson | id, name |  |
+| 295. | wings | wings | wings | id, name | 25946 |
+| 296. | xel | xel | elastic | name |  |
+| 297. | yoyow | yoyow | yoyow | id, name | 322002 |
+| 298. | zcash | zcash | zcash | id, name | 24854 |
+| 299. | zclassic | zclassic | zclassic | id, name | 32544 |
+| 300. | zcoin | zcoin | zcoin | id, name | 30022 |
+| 301. | zencash | zencash | zencash | id, name |  |
+| 302. | zilliqa | zilliqa | zilliqa | id, name | 716725 |
