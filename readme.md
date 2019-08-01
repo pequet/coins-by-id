@@ -301,10 +301,11 @@
 | 299. | whitecoin | whitecoin | whitecoin | id, name | 20338 |
 | 300. | wibson | wibson | wibson | id, name |  |
 | 301. | wings | wings | wings | id, name | 25946 |
-| 302. | xel | xel | elastic | name |  |
-| 303. | yoyow | yoyow | yoyow | id, name | 322002 |
-| 304. | zcash | zcash | zcash | id, name | 24854 |
-| 305. | zclassic | zclassic | zclassic | id, name | 32544 |
-| 306. | zcoin | zcoin | zcoin | id, name | 30022 |
-| 307. | zencash | zencash | zencash | id, name |  |
-| 308. | zilliqa | zilliqa | zilliqa | id, name | 716725 |
+| 302. | wink | wink | wink | id, name | 201962 |
+| 303. | xel | xel | elastic | name |  |
+| 304. | yoyow | yoyow | yoyow | id, name | 322002 |
+| 305. | zcash | zcash | zcash | id, name | 24854 |
+| 306. | zclassic | zclassic | zclassic | id, name | 32544 |
+| 307. | zcoin | zcoin | zcoin | id, name | 30022 |
+| 308. | zencash | zencash | zencash | id, name |  |
+| 309. | zilliqa | zilliqa | zilliqa | id, name | 716725 |
