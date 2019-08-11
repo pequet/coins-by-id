@@ -285,27 +285,28 @@
 | 283. | ubiq | ubiq | ubiq | id, name | 43044 |
 | 284. | unikoin-gold | unikoin-gold-ukg | unikoin-gold | name | 371005 |
 | 285. | uptoken | uptoken | uptoken | id, name | 347247 |
-| 286. | vechain | vechain | vechain | id, name | 236131 |
-| 287. | verge | verge | verge | id, name | 4433 |
-| 288. | veriblock | veriblock | veriblock | id, name |  |
-| 289. | vericoin | vericoin | vericoin | id, name | 5017 |
-| 290. | vertcoin | vertcoin | vertcoin | id, name | 5018 |
-| 291. | viacoin | viacoin | viacoin | id, name | 5015 |
-| 292. | vibe | vibe | vibe | id, name | 336538 |
-| 293. | viberate | viberate | viberate | id, name | 198710 |
-| 294. | vite | vite | vite | id, name | 921524 |
-| 295. | wanchain | wanchain | wanchain | id, name | 240142 |
-| 296. | waves | waves | waves | id, name | 20131 |
-| 297. | wax | wax | wax | id, name | 338541 |
-| 298. | wepower | wepower | wepower | id, name | 355242 |
-| 299. | whitecoin | whitecoin | whitecoin | id, name | 20338 |
-| 300. | wibson | wibson | wibson | id, name |  |
-| 301. | wings | wings | wings | id, name | 25946 |
-| 302. | wink | wink | wink | id, name | 201962 |
-| 303. | xel | xel | elastic | name |  |
-| 304. | yoyow | yoyow | yoyow | id, name | 322002 |
-| 305. | zcash | zcash | zcash | id, name | 24854 |
-| 306. | zclassic | zclassic | zclassic | id, name | 32544 |
-| 307. | zcoin | zcoin | zcoin | id, name | 30022 |
-| 308. | zencash | zencash | zencash | id, name |  |
-| 309. | zilliqa | zilliqa | zilliqa | id, name | 716725 |
+| 286. | utrust | utrust | utrust | id, name | 236358 |
+| 287. | vechain | vechain | vechain | id, name | 236131 |
+| 288. | verge | verge | verge | id, name | 4433 |
+| 289. | veriblock | veriblock | veriblock | id, name |  |
+| 290. | vericoin | vericoin | vericoin | id, name | 5017 |
+| 291. | vertcoin | vertcoin | vertcoin | id, name | 5018 |
+| 292. | viacoin | viacoin | viacoin | id, name | 5015 |
+| 293. | vibe | vibe | vibe | id, name | 336538 |
+| 294. | viberate | viberate | viberate | id, name | 198710 |
+| 295. | vite | vite | vite | id, name | 921524 |
+| 296. | wanchain | wanchain | wanchain | id, name | 240142 |
+| 297. | waves | waves | waves | id, name | 20131 |
+| 298. | wax | wax | wax | id, name | 338541 |
+| 299. | wepower | wepower | wepower | id, name | 355242 |
+| 300. | whitecoin | whitecoin | whitecoin | id, name | 20338 |
+| 301. | wibson | wibson | wibson | id, name |  |
+| 302. | wings | wings | wings | id, name | 25946 |
+| 303. | wink | wink | wink | id, name | 201962 |
+| 304. | xel | xel | elastic | name |  |
+| 305. | yoyow | yoyow | yoyow | id, name | 322002 |
+| 306. | zcash | zcash | zcash | id, name | 24854 |
+| 307. | zclassic | zclassic | zclassic | id, name | 32544 |
+| 308. | zcoin | zcoin | zcoin | id, name | 30022 |
+| 309. | zencash | zencash | zencash | id, name |  |
+| 310. | zilliqa | zilliqa | zilliqa | id, name | 716725 |
