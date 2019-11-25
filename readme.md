@@ -254,7 +254,7 @@
 | 252. | sonm | sonm | sonm | id, name | 136244 |
 | 253. | spendcoin | spendcoin | spendcoin | id, name |  |
 | 254. | sphere | sphere | sphere | id, name | 6111 |
-| 255. | stableusd | stableusd | stableusd | id, name | 929229 |
+| 255. | stableusd | stableusd | stableusd | id | 929229 |
 | 256. | status | status | status | id, name |  |
 | 257. | stealth | stealthcoin | stealthcoin | id, name | 5032 |
 | 258. | steem | steem | steem | id, name | 20333 |
